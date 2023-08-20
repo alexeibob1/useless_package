@@ -1,0 +1,21 @@
+{
+    "name": "alexeibob/composesr_package",
+    "description": "This package is used for study purpose only. phpinfo() function is called inside this code.",
+    "type": "library",
+    "license": "MIT",
+    "time": "2023-08-20",
+    "autoload": {
+        "psr-4": {
+            "Alexeibob\\UselessPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexei Bobrik",
+            "email": "fingerloom2004@gmail.com",
+            "homepage": "https://vk.com/alexei_bobrik",
+            "role": "developer"
+        }
+    ],
+    "require": {}
+}
