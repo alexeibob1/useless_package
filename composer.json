@@ -1,5 +1,5 @@
 {
-    "name": "alexeibob/composesr_package",
+    "name": "alexeibob/composer_package",
     "description": "This package is used for study purpose only. phpinfo() function is called inside this code.",
     "type": "library",
     "license": "MIT",
